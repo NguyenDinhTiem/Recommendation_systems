@@ -1,19 +1,4 @@
 {
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "name": "Recommendation_systems.ipynb",
-      "provenance": [],
-      "collapsed_sections": []
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    }
-  },
-  "cells": [
-    {
       "cell_type": "markdown",
       "metadata": {
         "id": "Jxnuu80q_EPP"
@@ -275,5 +260,3 @@
         "Tài liệu bài viết này mình tham khảo từ: https://machinelearningcoban.com/2017/05/17/contentbasedrecommendersys/"
       ]
     }
-  ]
-}
