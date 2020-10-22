@@ -3,7 +3,7 @@ BẠN CÓ THỂ XEM TÀI LIỆU BẰNG:
 
 
 1.   Github  &nbsp; <a href="" role="button"><img class="notebook-badge-image" src="https://img.shields.io/static/v1?label=&amp;message=View%20On%20GitHub&amp;color=586069&amp;logo=github&amp;labelColor=2f363d"></a>&nbsp;
-2.   Colab &nbsp; <a href="https://machinelearningcoban.com/2017/05/17/contentbasedrecommendersys/"><img class="notebook-badge-image" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+2.   Colab &nbsp; <a href="https://colab.research.google.com/drive/1DU7lAB_jtASTAS5V6aEqDfQ0VaW1Kg6L?usp=sharing"><img class="notebook-badge-image" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 ## **INTRODUCTION**
  Mùa thu này thời tiết rất dễ chịu, mình sẽ hướng dẫn cách để trở thành một ông thầy "bói toán" nghiệp dư haha. Bói toán, giải mộng đó là cách dự đoán một sự kiện nào đó ở tương lai, quá khứ mà chúng ta khó nắm được, sờ được :)). Những người thầy bói toán giỏi nhất, nổi tiếng nhất trên thế giới là ai? Bà Ba béo bán bánh bèo ở gốc đa làng bạn hay bà tiên tri Baba Vanga thần thánh ...? Nhưng có những ông thầy mà ai cũng biết đó là Facebook, Google, Netflix, Youtube...ông thầy này rất giỏi, biết hầu hết mọi thứ cua bạn, đôi khi còn biết số lượng bồ nhí khủng bố xinh đẹp của bạn, còn dự đoán được hành động.... nói chung là mọi thư của bạn :)))). Rốt cuộc là để hành nghề bói toán trong cuộc sống bon chen này bạn cần có một tâm hồn đẹp và khả năng dự đoán vô cùng chính xác.
